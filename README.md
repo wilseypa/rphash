@@ -33,7 +33,7 @@ The RPHash project has
   + Specific LSH algorithms: Leech, Spherical (multiple configuration settings), E8, and p-space
   (Euclidean, Manhattan, or .5 fractional)
 
-* [rphash-spark:] Source code to embed the rphash-java runtime into the Spark map-reduce framework.
+* [rphash-spark:](https://github.com/wilseypa/rphash-spark) Source code to embed the rphash-java runtime into the Spark map-reduce framework.
 
 * [rphash-golang:](https://github.com/wilseypa/rphash-golang) A golang implementation of the
   StreamingRPHash algorithm from the rphash-java repository.  Implementing DB Friendly with three
