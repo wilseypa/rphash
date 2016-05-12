@@ -28,9 +28,9 @@ The RPHash project has
 * [rphash-java:](https://github.com/wilseypa/rphash-java) This is the main RPHash repository that
   contains many configuration options.  While there are many configuration options, the principle
   choices are:
-  ..* The RP step: full JL or DB Friendly; number of dimensions to reduce to; and number of
+  + The RP step: full JL or DB Friendly; number of dimensions to reduce to; and number of
   multi-probe operations
-  ..* Specific LSH algorithms: Leech, Spherical (multiple configuration settings), E8, and p-space
+  + Specific LSH algorithms: Leech, Spherical (multiple configuration settings), E8, and p-space
   (Euclidean, Manhattan, or .5 fractional)
 
 * [rphash-spark:] Source code to embed the rphash-java runtime into the Spark map-reduce framework.
